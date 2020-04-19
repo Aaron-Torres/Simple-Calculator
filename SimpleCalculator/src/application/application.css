@@ -1,0 +1,65 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+/*The color will change when the mouse is hovering on each button */
+
+.b0:hover {
+	-fx-background-color: #87CEEB ;
+}
+
+.b1:hover {
+	-fx-background-color: #87CEEB ;
+}
+
+.b2:hover {
+	-fx-background-color: #87CEEB ;
+}
+
+.b3:hover {
+	-fx-background-color: #87CEEB ;
+}
+
+.b4:hover {
+	-fx-background-color: #87CEEB ;
+}
+
+.b5:hover {
+	-fx-background-color: #87CEEB ;
+}
+
+.b6:hover {
+	-fx-background-color: #87CEEB ;
+}
+
+.b7:hover {
+	-fx-background-color: #87CEEB ;
+}
+
+.b8:hover {
+	-fx-background-color: #87CEEB ;
+}
+
+.b9:hover {
+	-fx-background-color: #87CEEB ;
+}
+
+.add:hover {
+	-fx-background-color: #87CEEB ;
+}
+
+.subs:hover {
+	-fx-background-color: #87CEEB ;
+}
+.mult:hover {
+	-fx-background-color: #87CEEB ;
+}
+
+.division:hover {
+	-fx-background-color: #87CEEB ;
+}
+.equal:hover {
+	-fx-background-color: #87CEEB ;
+}
+
+.clear:hover {
+	-fx-background-color: #87CEEB ;
+}
